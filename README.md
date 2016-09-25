@@ -1,5 +1,5 @@
 # samples
-Some samples of my projects.
+Some simple projects.
 
 1). PrintScreen
 
