@@ -18,4 +18,4 @@ Some simple projects.
 
 2). equations
 
-   * System equations decision.
+   * System equations decision with GUI.
