@@ -19,3 +19,4 @@ Some simple projects.
 2). equations
 
    * System equations decision with GUI.
+   ![Иллюстрация к проекту](https://github.com/hiJackinGg/samples/blob/master/equations/runtime.png)
